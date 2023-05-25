@@ -5,3 +5,7 @@
 ### 2b Chiedo all'utente il suo cognome
 
 ### 2c Chiedo all'utente il suo colore preferito
+
+### 2 d Aggiungo costante 21
+
+### 3 Scrivo nell'elemento in pagina

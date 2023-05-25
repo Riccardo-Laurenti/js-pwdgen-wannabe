@@ -25,3 +25,14 @@ console.log(userSurname);
 const userColor = prompt('Quale è il tuo colore preferito ?', 'rosso');
 console.log(userColor);
 
+
+/* -- Aggiungo costante 21 --*/
+
+const userNumber = prompt('Dammi un numero',21);
+console.log(userNumber);
+
+
+
+/* -- Scrivo nell'elemento in pagina --*/
+
+passPlaceholder.innerText = userName+userSurname+userColor+userNumber;
